@@ -6087,7 +6087,7 @@ a[class*=button-].button-light,input[class*=button-].button-light,button[class*=
 }
 
 .navbar-default .navbar-nav>li>a.link-aboutus {
-  color: #2ECC71;
+  background-color: #2ECC71;
 }
 
 .navbar-default .navbar-toggle {
